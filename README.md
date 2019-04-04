@@ -1,3 +1,5 @@
+# DEPRECIATED!!! 
+
 # Hi
 Here's Facematch, a wrapper for the Facebook Face Recognition feature. I coded it super quickly to recognize my friends when they ring at the door. This is very simple at the moment and there's much to improve (almost no error handlers).
 
